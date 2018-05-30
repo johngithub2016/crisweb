@@ -1,2 +1,2 @@
 # crisweb
-Proyecto Laravel y Vue.js 2018
+Proyecto Laravel y Vue.js

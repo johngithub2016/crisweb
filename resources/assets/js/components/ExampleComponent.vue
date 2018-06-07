@@ -6,7 +6,7 @@
                     <div class="card-header" @click="testClick">Example Component</div>
 
                     <div class="card-body">
-                        I'm an example component.
+                        Hello World.
                     </div>
                 </div>
             </div>
